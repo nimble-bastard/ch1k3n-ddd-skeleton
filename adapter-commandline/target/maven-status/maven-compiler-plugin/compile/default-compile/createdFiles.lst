@@ -1,0 +1,3 @@
+com/chiken/todo/adapters/commandline/CommandlineTransformer.class
+com/chiken/todo/adapters/commandline/CommandlineRunner.class
+com/chiken/todo/adapters/commandline/CommandlineController.class

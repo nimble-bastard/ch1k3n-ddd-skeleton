@@ -1,0 +1,17 @@
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/repository/TagReadRepository.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/infrastructure/repositories/PlainFileItemReadRepository.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/ListQueryHandler.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/infrastructure/repositories/PlainFileItemWriteRepository.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/ListQueryFactory.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/domain/entities/Tag.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/handlers/AddItemCommandHandler.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/ListQuery.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/AddCommandHandler.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/handlers/AbstractCommandHandler.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/AddCommandFactory.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/repository/ItemWriteRepository.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/domain/value/objects/CreationDate.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/commands/AddCommand.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/repository/TagWriteRepository.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/domain/entities/Item.java
+/home/eugenio/Coding/code/todo-ddd/bounded-context-todo/src/main/java/com/chiken/todo/bc/main/application/repository/ItemReadRepository.java

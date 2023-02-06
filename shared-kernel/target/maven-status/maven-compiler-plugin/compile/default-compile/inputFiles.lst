@@ -1,0 +1,14 @@
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/commands/Command.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/events/EventHandler.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/events/EventBus.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/queries/QueriesBus.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/annotations/Service.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/events/Event.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/commands/CommandsBus.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/queries/QueryHandler.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/queries/QueryFactoryProvider.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/commands/CommandHandler.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/commands/CommandsBusProvider.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/queries/QueryResponse.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/queries/QueryFactory.java
+/home/eugenio/Coding/code/todo-ddd/shared-kernel/src/main/java/com/chiken/todo/shared/kernel/application/bus/queries/Query.java

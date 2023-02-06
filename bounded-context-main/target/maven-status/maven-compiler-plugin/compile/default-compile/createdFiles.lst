@@ -1,0 +1,17 @@
+com/chiken/todo/bc/main/application/commands/AddCommandFactory.class
+com/chiken/todo/bc/main/application/commands/ListQueryHandler.class
+com/chiken/todo/bc/main/application/commands/ListQueryFactory.class
+com/chiken/todo/bc/main/domain/entities/Item.class
+com/chiken/todo/bc/main/infrastructure/repositories/PlainFileItemWriteRepository.class
+com/chiken/todo/bc/main/application/commands/handlers/AddItemCommandHandler.class
+com/chiken/todo/bc/main/domain/entities/Tag.class
+com/chiken/todo/bc/main/application/commands/AddCommand.class
+com/chiken/todo/bc/main/application/repository/ItemWriteRepository.class
+com/chiken/todo/bc/main/application/repository/TagReadRepository.class
+com/chiken/todo/bc/main/infrastructure/repositories/PlainFileItemReadRepository.class
+com/chiken/todo/bc/main/application/repository/TagWriteRepository.class
+com/chiken/todo/bc/main/application/commands/handlers/AbstractCommandHandler.class
+com/chiken/todo/bc/main/application/commands/ListQuery.class
+com/chiken/todo/bc/main/domain/value/objects/CreationDate.class
+com/chiken/todo/bc/main/application/repository/ItemReadRepository.class
+com/chiken/todo/bc/main/application/commands/AddCommandHandler.class
